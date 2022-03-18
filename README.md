@@ -1,4 +1,4 @@
-### Hi folks, I'm Luca 👋
+## Hi folks, I'm Luca 👋
 
 Physics of Data students looking for a cool internship!
 
