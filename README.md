@@ -2,8 +2,10 @@
 
 Physics of Data students looking for a cool internship!
 
+<!---
 - 🔭 I’m currently working on developing DMRG algorithm
-- 🌱 I’m currently learning Tensor Network
+-->
+- 🌱 I’m currently studying for the "Models of Theoretical Physics" exam
 ***
 
 <div align='right'>
