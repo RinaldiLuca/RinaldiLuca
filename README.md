@@ -1,6 +1,6 @@
 ## Hi folks, I'm Luca 👋
 
-Physics of Data students looking for a cool internship!
+Physics of Data student looking for a cool internship!
 
 <!---
 - 🔭 I’m currently working on developing DMRG algorithm
