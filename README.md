@@ -2,9 +2,8 @@
 
 Physics of Data student looking for a cool internship!
 
-<!---
-- 🔭 I’m currently working on developing DMRG algorithm
--->
+
+- 🔭 I’m messing with CNNs and Autoencoders for solving Super-Resolution task
 - 🌱 I’m currently studying for the "Models of Theoretical Physics" exam
 ***
 
