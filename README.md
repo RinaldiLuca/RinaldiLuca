@@ -1,10 +1,10 @@
 ## Hi folks, I'm Luca 👋
 
-Physics of Data student looking for a cool internship!
+Physics of Data student currently working as Data Scientist Intern at Credito Emiliano.
 
 
-- 🔭 I’m messing with CNNs and Autoencoders for solving Super-Resolution task
-- 🌱 I’m currently studying for the "Models of Theoretical Physics" exam
+- 🔭 I’m developing a Machine Learning based solution to optimize the management of loans and mortgages processes.
+
 ***
 
 <div align='right'>
